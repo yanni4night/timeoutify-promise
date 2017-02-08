@@ -25,6 +25,6 @@ MIT
 [travis-url]: https://travis-ci.org/yanni4night/timeoutify-promise
 [travis-image]: http://img.shields.io/travis/yanni4night/timeoutify-promise.svg
 [david-dm-url]:https://david-dm.org/yanni4night/timeoutify-promise
-[david-dm-image]:   https://img.shields.io/yanni4night/timeoutify-promise.svg
+[david-dm-image]:   https://img.shields.io/david/yanni4night/timeoutify-promise.svg
 [david-dm-dev-url]:https://david-dm.org/yanni4night/timeoutify-promise#type=dev
-[david-dm-dev-image]:   https://img.shields.io/dev/timeoutify-promise.svg
+[david-dm-dev-image]:   https://img.shields.io/david/dev/timeoutify-promise.svg
