@@ -10,4 +10,4 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 - initialize project
 
-[Unreleased]: https://github.com/super-fe/create-superfe-rn/compare/0.1.0...HEAD
+[Unreleased]: https://github.com/yanni4night/timeoutify-promise/compare/0.1.0...HEAD
