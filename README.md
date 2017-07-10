@@ -1,5 +1,5 @@
 # timeoutify-promise
-[![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency status][david-dm-image]][david-dm-url] [![Dev Dependency status][david-dm-dev-image]][david-dm-dev-url]
+[![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency status][david-dm-image]][david-dm-url]
 
 Wrap a promise with timeout property.
 
@@ -26,5 +26,3 @@ MIT
 [travis-image]: http://img.shields.io/travis/yanni4night/timeoutify-promise.svg
 [david-dm-url]:https://david-dm.org/yanni4night/timeoutify-promise
 [david-dm-image]:   https://img.shields.io/david/yanni4night/timeoutify-promise.svg
-[david-dm-dev-url]:https://david-dm.org/yanni4night/timeoutify-promise#type=dev
-[david-dm-dev-image]:   https://img.shields.io/david/dev/timeoutify-promise.svg

@@ -1,6 +1,6 @@
 {
   "name": "timeoutify-promise",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Wrap a promise with timeout property",
   "main": "index.js",
   "scripts": {
@@ -25,7 +25,7 @@
     "url": "https://github.com/yanni4night/timeoutify-promise/issues"
   },
   "devDependencies": {
-    "mocha": "^3.2.0",
+    "mocha": "^3.4.2",
     "pre-commit": "^1.2.2"
   }
 }
